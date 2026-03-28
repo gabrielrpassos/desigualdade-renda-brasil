@@ -1,0 +1,7 @@
+pandas>=2.0
+matplotlib>=3.7
+geopandas>=0.14
+geobr>=0.1.7
+requests>=2.31
+jupyter>=1.0
+openpyxl>=3.1
