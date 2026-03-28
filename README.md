@@ -78,7 +78,7 @@ jupyter notebook
 ```
 
 Execute as células na ordem. Os dados são coletados diretamente 
-via API — nenhum download manual necessário.
+via API, nenhum download manual necessário.
 
 Ou abra no Google Colab: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrielrpassos/desigualdade-renda-brasil/blob/main/desigualdade_renda_brasil.ipynb)
