@@ -92,7 +92,6 @@ desigualdade-renda-brasil/
 ├── README.md
 ├── requirements.txt
 ├── desigualdade_renda_brasil.ipynb
-├── painel_gini.csv
 ├── painel_gini.xlsx
 │
 └── outputs/
